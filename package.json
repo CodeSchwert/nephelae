@@ -1,0 +1,6 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@faker-js/faker": "^6.3.1"
+  }
+}
