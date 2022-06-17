@@ -6,9 +6,9 @@
       "demigod_description": "User-friendly hybrid adapter",
       "image_url": "https://images.unsplash.com/photo-1646409206721-d3dc35663ae6?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=640&ixid=MnwxfDB8MXxyYW5kb218MHx8Ymx1ZSx5ZWxsb3csZmxhZ3x8fHx8fDE2NTIzMzcwNzY&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=640",
       "rarity": "Legendary",
-      "attack": 677,
-      "defence": 805,
-      "health": 7350
+      "attack": 777,
+      "defence": 999,
+      "health": 8888
     },    
     {
       "id": 1,
@@ -16,9 +16,9 @@
       "demigod_description": "Configurable analyzing matrices",
       "image_url": "https://images.unsplash.com/photo-1536745287225-21d689278fd1?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=640&ixid=MnwxfDB8MXxyYW5kb218MHx8YWJzdHJhY3R8fHx8fHwxNjUyMzM2NzUy&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=640",
       "rarity": "Rare",
-      "attack": 677,
-      "defence": 805,
-      "health": 7350
+      "attack": 666,
+      "defence": 666,
+      "health": 6666
     },
     {
       "id": 2,
@@ -87,8 +87,8 @@
       "image_url": "https://images.unsplash.com/photo-1541701494587-cb58502866ab?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=640&ixid=MnwxfDB8MXxyYW5kb218MHx8YWJzdHJhY3R8fHx8fHwxNjUyMzM2ODc4&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=640",
       "rarity": "Uncommon",
       "attack": 500,
-      "defence": 76,
-      "health": 4874
+      "defence": 80,
+      "health": 5000
     },
     {
       "id": 9,
@@ -107,8 +107,8 @@
       "image_url": "https://images.unsplash.com/photo-1579548122080-c35fd6820ecb?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=640&ixid=MnwxfDB8MXxyYW5kb218MHx8YWJzdHJhY3R8fHx8fHwxNjUyMzM2ODky&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=640",
       "rarity": "Common",
       "attack": 850,
-      "defence": 491,
-      "health": 606
+      "defence": 420,
+      "health": 696
     }
   ]
 }
