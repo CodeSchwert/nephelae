@@ -1,29 +1,15 @@
 {
-  "zk": [
+  "x": [
     {
       "id": 0,
       "demigod_name": "Foo",
       "demigod_description": "User-friendly hybrid adapter",
       "image_url": "https://images.unsplash.com/photo-1646409206721-d3dc35663ae6?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=640&ixid=MnwxfDB8MXxyYW5kb218MHx8Ymx1ZSx5ZWxsb3csZmxhZ3x8fHx8fDE2NTIzMzcwNzY&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=640",
       "model_url": "",
-      "attributes": [
-        {
-          "trait_type": "Rarity",
-          "value": "Legendary"
-        },
-        {
-          "trait_type": "Attack",
-          "value": 777
-        },
-        {
-          "trait_type": "Defence",
-          "value": 999
-        },
-        {
-          "trait_type": "Health",
-          "value": 8888
-        }
-      ]
+      "rarity": "Legendary",
+      "attack": 777,
+      "defence": 999,
+      "health": 8888
     },    
     {
       "id": 1,
@@ -31,24 +17,10 @@
       "demigod_description": "Configurable analyzing matrices",
       "image_url": "https://images.unsplash.com/photo-1536745287225-21d689278fd1?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=640&ixid=MnwxfDB8MXxyYW5kb218MHx8YWJzdHJhY3R8fHx8fHwxNjUyMzM2NzUy&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=640",
       "model_url": "",
-      "attributes": [
-        {
-          "trait_type": "Rarity",
-          "value": "Rare"
-        },
-        {
-          "trait_type": "Attack",
-          "value": 666
-        },
-        {
-          "trait_type": "Defence",
-          "value": 666
-        },
-        {
-          "trait_type": "Health",
-          "value": 6666
-        }
-      ]
+      "rarity": "Rare",
+      "attack": 666,
+      "defence": 666,
+      "health": 6666
     },
     {
       "id": 2,
@@ -56,24 +28,10 @@
       "demigod_description": "Persevering bottom-line analyzer",
       "image_url": "https://images.unsplash.com/photo-1534312527009-56c7016453e6?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=640&ixid=MnwxfDB8MXxyYW5kb218MHx8YWJzdHJhY3R8fHx8fHwxNjUyMzM2Nzg4&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=640",
       "model_url": "",
-      "attributes": [
-        {
-          "trait_type": "Rarity",
-          "value": "Common"
-        },
-        {
-          "trait_type": "Attack",
-          "value": 987
-        },
-        {
-          "trait_type": "Defence",
-          "value": 379
-        },
-        {
-          "trait_type": "Health",
-          "value": 959
-        }
-      ]
+      "rarity": "Common",
+      "attack": 987,
+      "defence": 379,
+      "health": 959
     },
     {
       "id": 3,
@@ -81,24 +39,10 @@
       "demigod_description": "Centralized heuristic forecast",
       "image_url": "https://images.unsplash.com/photo-1620121692029-d088224ddc74?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=640&ixid=MnwxfDB8MXxyYW5kb218MHx8YWJzdHJhY3R8fHx8fHwxNjUyMzM2ODA2&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=640",
       "model_url": "",
-      "attributes": [
-        {
-          "trait_type": "Rarity",
-          "value": "Common"
-        },
-        {
-          "trait_type": "Attack",
-          "value": 489
-        },
-        {
-          "trait_type": "Defence",
-          "value": 677
-        },
-        {
-          "trait_type": "Health",
-          "value": 4501
-        }
-      ]
+      "rarity": "Common",
+      "attack": 489,
+      "defence": 677,
+      "health": 4501
     },
     {
       "id": 4,
@@ -106,24 +50,10 @@
       "demigod_description": "Re-engineered content-based emulation",
       "image_url": "https://images.unsplash.com/photo-1615401318973-c78255cc9562?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=640&ixid=MnwxfDB8MXxyYW5kb218MHx8YWJzdHJhY3R8fHx8fHwxNjUyMzM2ODIy&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=640",
       "model_url": "",
-      "attributes": [
-        {
-          "trait_type": "Rarity",
-          "value": "Uncommon"
-        },
-        {
-          "trait_type": "Attack",
-          "value": 625
-        },
-        {
-          "trait_type": "Defence",
-          "value": 134
-        },
-        {
-          "trait_type": "Health",
-          "value": 6707
-        }
-      ]
+      "rarity": "Uncommon",
+      "attack": 625,
+      "defence": 134,
+      "health": 6707
     },
     {
       "id": 5,
@@ -131,24 +61,10 @@
       "demigod_description": "Enterprise-wide 24/7 projection",
       "image_url": "https://images.unsplash.com/photo-1595878715977-2e8f8df18ea8?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=640&ixid=MnwxfDB8MXxyYW5kb218MHx8YWJzdHJhY3R8fHx8fHwxNjUyMzM2ODM3&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=640",
       "model_url": "",
-      "attributes": [
-        {
-          "trait_type": "Rarity",
-          "value": "Uncommon"
-        },
-        {
-          "trait_type": "Attack",
-          "value": 382
-        },
-        {
-          "trait_type": "Defence",
-          "value": 562
-        },
-        {
-          "trait_type": "Health",
-          "value": 5615
-        }
-      ]
+      "rarity": "Uncommon",
+      "attack": 382,
+      "defence": 562,
+      "health": 5615
     },
     {
       "id": 6,
@@ -156,24 +72,10 @@
       "demigod_description": "Expanded content-based pricing structure",
       "image_url": "https://images.unsplash.com/photo-1604079628040-94301bb21b91?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=640&ixid=MnwxfDB8MXxyYW5kb218MHx8YWJzdHJhY3R8fHx8fHwxNjUyMzM2ODUy&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=640",
       "model_url": "",
-      "attributes": [
-        {
-          "trait_type": "Rarity",
-          "value": "Common"
-        },
-        {
-          "trait_type": "Attack",
-          "value": 40
-        },
-        {
-          "trait_type": "Defence",
-          "value": 826
-        },
-        {
-          "trait_type": "Health",
-          "value": 122
-        }
-      ]
+      "rarity": "Common",
+      "attack": 40,
+      "defence": 826,
+      "health": 122
     },
     {
       "id": 7,
@@ -181,24 +83,10 @@
       "demigod_description": "Cloned well-modulated internet solution",
       "image_url": "https://images.unsplash.com/photo-1523821741446-edb2b68bb7a0?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=640&ixid=MnwxfDB8MXxyYW5kb218MHx8YWJzdHJhY3R8fHx8fHwxNjUyMzM2OTAy&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=640",
       "model_url": "",
-      "attributes": [
-        {
-          "trait_type": "Rarity",
-          "value": "Common"
-        },
-        {
-          "trait_type": "Attack",
-          "value": 15
-        },
-        {
-          "trait_type": "Defence",
-          "value": 124
-        },
-        {
-          "trait_type": "Health",
-          "value": 2835
-        }
-      ]
+      "rarity": "Common",
+      "attack": 15,
+      "defence": 124,
+      "health": 2835
     },
     {
       "id": 8,
@@ -206,24 +94,10 @@
       "demigod_description": "Grass-roots uniform leverage",
       "image_url": "https://images.unsplash.com/photo-1541701494587-cb58502866ab?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=640&ixid=MnwxfDB8MXxyYW5kb218MHx8YWJzdHJhY3R8fHx8fHwxNjUyMzM2ODc4&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=640",
       "model_url": "",
-      "attributes": [
-        {
-          "trait_type": "Rarity",
-          "value": "Uncommon"
-        },
-        {
-          "trait_type": "Attack",
-          "value": 500
-        },
-        {
-          "trait_type": "Defence",
-          "value": 80
-        },
-        {
-          "trait_type": "Health",
-          "value": 5000
-        }
-      ]
+      "rarity": "Uncommon",
+      "attack": 500,
+      "defence": 80,
+      "health": 5000
     },
     {
       "id": 9,
@@ -231,24 +105,10 @@
       "demigod_description": "Universal systematic standardization",
       "image_url": "https://images.unsplash.com/photo-1617140237060-d09a58ba8edd?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=640&ixid=MnwxfDB8MXxyYW5kb218MHx8YWJzdHJhY3R8fHx8fHwxNjUyMzM2ODYz&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=640",
       "model_url": "",
-      "attributes": [
-        {
-          "trait_type": "Rarity",
-          "value": "Rare"
-        },
-        {
-          "trait_type": "Attack",
-          "value": 673
-        },
-        {
-          "trait_type": "Defence",
-          "value": 170
-        },
-        {
-          "trait_type": "Health",
-          "value": 8912
-        }
-      ]
+      "rarity": "Rare",
+      "attack": 673,
+      "defence": 170,
+      "health": 8912
     },
     {
       "id": 10,
@@ -256,24 +116,10 @@
       "demigod_description": "Inverse radical neural-net",
       "image_url": "https://images.unsplash.com/photo-1579548122080-c35fd6820ecb?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=640&ixid=MnwxfDB8MXxyYW5kb218MHx8YWJzdHJhY3R8fHx8fHwxNjUyMzM2ODky&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=640",
       "model_url": "",
-      "attributes": [
-        {
-          "trait_type": "Rarity",
-          "value": "Common"
-        },
-        {
-          "trait_type": "Attack",
-          "value": 850
-        },
-        {
-          "trait_type": "Defence",
-          "value": 420
-        },
-        {
-          "trait_type": "Health",
-          "value": 696
-        }
-      ]
+      "rarity": "Common",
+      "attack": 850,
+      "defence": 420,
+      "health": 696
     }
   ]
 }
